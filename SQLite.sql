@@ -1,3 +1,2 @@
 -- -- SQLite
--- SELECT * from users
-DELETE from users
+delete from users
